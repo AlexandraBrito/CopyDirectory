@@ -1,0 +1,10 @@
+C:\Users\Alexandra\source\repos\CopyDirectory\bin\Release\CopyDirectory.exe.config
+C:\Users\Alexandra\source\repos\CopyDirectory\bin\Release\CopyDirectory.exe
+C:\Users\Alexandra\source\repos\CopyDirectory\bin\Release\CopyDirectory.pdb
+C:\Users\Alexandra\source\repos\CopyDirectory\obj\Release\CopyDirectory.csprojAssemblyReference.cache
+C:\Users\Alexandra\source\repos\CopyDirectory\obj\Release\CopyDirectory.CopyDirectoryForm.resources
+C:\Users\Alexandra\source\repos\CopyDirectory\obj\Release\CopyDirectory.Properties.Resources.resources
+C:\Users\Alexandra\source\repos\CopyDirectory\obj\Release\CopyDirectory.csproj.GenerateResource.cache
+C:\Users\Alexandra\source\repos\CopyDirectory\obj\Release\CopyDirectory.csproj.CoreCompileInputs.cache
+C:\Users\Alexandra\source\repos\CopyDirectory\obj\Release\CopyDirectory.exe
+C:\Users\Alexandra\source\repos\CopyDirectory\obj\Release\CopyDirectory.pdb
